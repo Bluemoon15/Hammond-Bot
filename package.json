@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "name": "hammond-bot",
+  "version": "1.0.0",
+  "description": "Hammond Bot, because one day I was board",
+  "main": "bot.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "author": "Blue",
+  "license": "ISC"
+}
